@@ -1,0 +1,12 @@
+<script type="text/javascript" src="{{ asset('front_theme/js/jquery-1.11.1.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('front_theme/js/bootstrap.min.js') }}"></script> 
+<script type="text/javascript" src="{{ asset('front_theme/js/owl-carousel/owl.carousel.js') }}"></script>
+<script type="text/javascript" src="{{ asset('front_theme/js/jquery.flexslider-min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('front_theme/js/jquery.bxslider.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('front_theme/js/jquery.magnific-popup.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('front_theme/js/easing.js') }}"></script>
+<script type="text/javascript" src="{{ asset('front_theme/js/jquery.parallax-1.1.3.js') }}"></script>
+<script type="text/javascript" src="{{ asset('front_theme/js/jquery.sticky.js') }}"></script>
+<script type="text/javascript" src="{{ asset('front_theme/js/jquery.mixitup.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('front_theme/js/wow.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('front_theme/js/custom.js') }}"></script>
